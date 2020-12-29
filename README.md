@@ -1,3 +1,5 @@
+### There are modified files in mmaction2:
+
 loading.py: mmaction/datasets/pipelines/loading.py
 trunet_dataset.py: mmaction/datasets/trunet_dataset.py
 eval_detection.py: mmaction/core/evaluation/eval_detection.py
@@ -6,9 +8,13 @@ report_trunet_map.py: tools/analysis/report_trunet_map.py
 
 
 
+### my data process file:
+
 data_process.py: pre-process and post-process trunet dataset features.
 
 
+
+### annotation and result files
 
 val_meta.json: original validation set annotations
 
